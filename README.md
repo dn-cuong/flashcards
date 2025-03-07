@@ -1,10 +1,10 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Flashcard*
 
-Submitted by: **Your Name Here**
+Submitted by: Dang Cuong Nguyen
 
-This web app: **insert description**
+This web app: Flashcard
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
